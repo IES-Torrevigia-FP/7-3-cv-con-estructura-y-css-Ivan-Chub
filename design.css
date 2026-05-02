@@ -1,0 +1,82 @@
+
+body {
+    background-color: lightblue;
+    color: darkblue;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.index {
+    text-align: left;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    font-family: Arial, sans-serif;
+}
+
+.main-photo {
+    margin-left: 2300px;
+}
+
+.index {
+    margin-left: 75px;
+    font-family: Arial, sans-serif;
+}
+
+.head-index {
+    margin-left: 75px;
+    margin-top: 75px;
+    font-family: Arial, sans-serif;
+}
+
+.text-info {
+    margin-left: 75px;
+    margin-top: 75px;
+    font-family: Arial, sans-serif;
+}
+
+.button {
+    display: block;
+    width: fit-content;
+    margin-bottom: 10px;
+    padding: 10px 25px;
+    background-color: #7abaff;
+    border-radius: 50px;
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+    color: white; 
+    cursor: pointer;
+}
+
+.button-exit {
+    display: block;
+    width: fit-content;
+    margin-bottom: 10px;
+    padding: 10px 25px;
+    background-color: #7abaff;
+    border-radius: 50px;
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+    color: white; 
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #5a9ce6;
+}
+
+.footer-foto {
+    background: url('background_foto.png') center;
+    margin-left: -135px;
+    margin-right: -200px;
+
+}
+
+.copyright {
+    margin-top: -100px;
+    margin-left: -100px;
+    color: black;
+    font-family: Arial, sans-serif;
+}
